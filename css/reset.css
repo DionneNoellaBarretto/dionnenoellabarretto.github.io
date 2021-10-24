@@ -23,3 +23,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+strong {
+  font-size:6.5rem;
+}
