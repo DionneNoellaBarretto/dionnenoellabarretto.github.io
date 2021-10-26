@@ -82,3 +82,16 @@ main > .tagline {
 		opacity: 0.5;
 	  }
 }
+
+
+.contact{
+  padding: 10px;
+  margin:5px;
+  border: 1px solid;
+}
+
+.contact:hover, .fab:hover{
+  transform: scale(1.3);
+  
+
+}

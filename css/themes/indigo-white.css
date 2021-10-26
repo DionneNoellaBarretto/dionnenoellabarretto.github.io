@@ -2,7 +2,7 @@
 
 main {
 	/* background: #303F9F; */
-	background-image: linear-gradient(to right bottom, #69f09f, #3794f1);
+	background-image: linear-gradient(to right bottom, #3dd87b, #0e7eee);
   /* to prevent the body runover */
   background-attachment: fixed;
   color: rgb(15, 15, 15);
@@ -16,4 +16,8 @@ main {
 
 .icons-social a svg path{
 	fill: rgb(15, 15, 15);
+}
+
+.icons-social a:hover{
+  color: rgb(75, 74, 74);
 }
